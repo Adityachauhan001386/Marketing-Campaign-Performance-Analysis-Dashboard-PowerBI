@@ -49,7 +49,7 @@ The report highlights:
 ---
 
 ## 📊 Dashboard Preview  
-![Marketing Campaign Dashboard](./dashboard_screenshot.png)
+![Marketing Campaign Dashboard]("D:\my new projects\End-To-End Projects\Marketing campaign analysis\Dashboard\Dashboard screenshot.png")
 
 ---
 
